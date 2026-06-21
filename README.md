@@ -1,8 +1,8 @@
 # ASP.NET Core Discussion Topics
 
 ## ASP.NET Core Fundamentals
-1. ASP.NET Core Architecture Overview
-2. Middleware Pipeline and Request Lifecycle
+1. ASP.NET Core Architecture Overview - ##Done
+2. Middleware Pipeline and Request Lifecycle - ##Done
 3. Dependency Injection (DI) in ASP.NET Core
 4. Configuration Management
 5. Logging and Monitoring
