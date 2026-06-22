@@ -3,8 +3,8 @@
 ## ASP.NET Core Fundamentals
 1. ASP.NET Core Architecture Overview - Done
 2. Middleware Pipeline and Request Lifecycle - Done
-3. Dependency Injection (DI) in ASP.NET Core
-4. Configuration Management
+3. Dependency Injection (DI) in ASP.NET Core - Done
+4. Configuration Management - Done
 5. Logging and Monitoring
 6. MVC vs Razor Pages vs Blazor
 7. Hosting Models
