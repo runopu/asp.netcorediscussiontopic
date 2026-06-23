@@ -5,8 +5,8 @@
 2. Middleware Pipeline and Request Lifecycle - Done
 3. Dependency Injection (DI) in ASP.NET Core - Done
 4. Configuration Management - Done
-5. Logging and Monitoring
-6. MVC vs Razor Pages vs Blazor
+5. Logging and Monitoring - Done
+6. MVC vs Razor Pages vs Blazor - Done
 7. Hosting Models
 
 ## Web API Development
