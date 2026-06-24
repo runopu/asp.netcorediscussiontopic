@@ -7,7 +7,7 @@
 4. Configuration Management - Done
 5. Logging and Monitoring - Done
 6. MVC vs Razor Pages vs Blazor - Done
-7. Hosting Models
+7. Hosting Models - Done
 
 ## Web API Development
 8. RESTful API Best Practices
