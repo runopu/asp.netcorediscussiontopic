@@ -10,7 +10,7 @@
 7. Hosting Models - Done
 
 ## Web API Development
-8. RESTful API Best Practices
+8. RESTful API Best Practices - Done
 9. API Versioning Strategies
 10. Model Validation
 11. Global Exception Handling
