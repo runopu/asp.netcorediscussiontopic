@@ -11,7 +11,7 @@
 
 ## Web API Development
 8. RESTful API Best Practices - Done
-9. API Versioning Strategies
+9. API Versioning Strategies - Done
 10. Model Validation
 11. Global Exception Handling
 12. Swagger/OpenAPI Documentation
