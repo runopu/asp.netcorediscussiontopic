@@ -12,8 +12,8 @@
 ## Web API Development
 8. RESTful API Best Practices - Done
 9. API Versioning Strategies - Done
-10. Model Validation
-11. Global Exception Handling
+10. Model Validation - Done
+11. Global Exception Handling - Done
 12. Swagger/OpenAPI Documentation
 13. Content Negotiation
 14. Rate Limiting and Throttling
