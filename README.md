@@ -14,7 +14,7 @@
 9. API Versioning Strategies - Done
 10. Model Validation - Done
 11. Global Exception Handling - Done
-12. Swagger/OpenAPI Documentation
+12. Swagger/OpenAPI Documentation - Done
 13. Content Negotiation
 14. Rate Limiting and Throttling
 15. Minimal APIs vs Controllers
