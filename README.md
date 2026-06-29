@@ -17,7 +17,7 @@
 12. Swagger/OpenAPI Documentation - Done
 13. Content Negotiation - Done
 14. Rate Limiting and Throttling - Done
-15. Minimal APIs vs Controllers
+15. Minimal APIs vs Controllers - Done
 
 ## Authentication & Security
 16. JWT Authentication
