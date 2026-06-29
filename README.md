@@ -15,8 +15,8 @@
 10. Model Validation - Done
 11. Global Exception Handling - Done
 12. Swagger/OpenAPI Documentation - Done
-13. Content Negotiation
-14. Rate Limiting and Throttling
+13. Content Negotiation - Done
+14. Rate Limiting and Throttling - Done
 15. Minimal APIs vs Controllers
 
 ## Authentication & Security
