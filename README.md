@@ -20,8 +20,8 @@
 15. Minimal APIs vs Controllers - Done
 
 ## Authentication & Security
-16. JWT Authentication
-17. ASP.NET Core Identity
+16. JWT Authentication - Done
+17. ASP.NET Core Identity - Done
 18. Role-Based Authorization
 19. OAuth 2.0 and OpenID Connect
 20. Secure API Development
