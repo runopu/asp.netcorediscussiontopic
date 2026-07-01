@@ -22,8 +22,8 @@
 ## Authentication & Security
 16. JWT Authentication - Done
 17. ASP.NET Core Identity - Done
-18. Role-Based Authorization
-19. OAuth 2.0 and OpenID Connect
+18. Role-Based Authorization - Done
+19. OAuth 2.0 and OpenID Connect - Done
 20. Secure API Development
 21. XSS, CSRF, and SQL Injection Prevention
 22. Data Protection and Encryption
