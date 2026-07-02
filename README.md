@@ -24,8 +24,8 @@
 17. ASP.NET Core Identity - Done
 18. Role-Based Authorization - Done
 19. OAuth 2.0 and OpenID Connect - Done
-20. Secure API Development
-21. XSS, CSRF, and SQL Injection Prevention
+20. Secure API Development - Done
+21. XSS, CSRF, and SQL Injection Prevention - Done
 22. Data Protection and Encryption
 
 ## Entity Framework Core
