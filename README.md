@@ -26,10 +26,10 @@
 19. OAuth 2.0 and OpenID Connect - Done
 20. Secure API Development - Done
 21. XSS, CSRF, and SQL Injection Prevention - Done
-22. Data Protection and Encryption
+22. Data Protection and Encryption - Done
 
 ## Entity Framework Core
-23. EF Core Performance Optimization
+23. EF Core Performance Optimization - Done
 24. LINQ Best Practices
 25. Tracking vs No-Tracking Queries
 26. Migrations Management
