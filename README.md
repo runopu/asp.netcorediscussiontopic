@@ -30,7 +30,7 @@
 
 ## Entity Framework Core
 23. EF Core Performance Optimization - Done
-24. LINQ Best Practices
+24. LINQ Best Practices - Done
 25. Tracking vs No-Tracking Queries
 26. Migrations Management
 27. Repository Pattern
