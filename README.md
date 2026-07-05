@@ -39,7 +39,7 @@
 30. Database Indexing - Done
 
 ## Performance Optimization
-31. Caching Strategies
+31. Caching Strategies - Done
 32. Response Compression
 33. Asynchronous Programming
 34. Query Optimization
