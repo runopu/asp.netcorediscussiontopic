@@ -34,8 +34,8 @@
 25. Tracking vs No-Tracking Queries - Done
 26. Migrations Management - Done
 27. Repository Pattern - Done
-28. Bulk Operations
-29. Stored Procedures vs EF Core
+28. Bulk Operations - Done
+29. Stored Procedures vs EF Core - Done
 30. Database Indexing
 
 ## Performance Optimization
