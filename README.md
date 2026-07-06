@@ -44,8 +44,8 @@
 33. Asynchronous Programming - Done
 34. Query Optimization - Done
 35. Application Profiling - Done
-36. Load Testing
-37. Background Processing
+36. Load Testing - Done
+37. Background Processing - Done
 
 ## Architecture & Design Patterns
 38. Clean Architecture
