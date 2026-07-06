@@ -42,8 +42,8 @@
 31. Caching Strategies - Done
 32. Response Compression - Done
 33. Asynchronous Programming - Done
-34. Query Optimization
-35. Application Profiling
+34. Query Optimization - Done
+35. Application Profiling - Done
 36. Load Testing
 37. Background Processing
 
