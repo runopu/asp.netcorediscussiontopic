@@ -48,10 +48,10 @@
 37. Background Processing - Done
 
 ## Architecture & Design Patterns
-38. Clean Architecture
-39. CQRS Pattern
-40. Repository & Unit of Work
-41. SOLID Principles
+38. Clean Architecture - Done
+39. CQRS Pattern - Done
+40. Repository & Unit of Work - Done
+41. SOLID Principles - Done
 42. Microservices
 43. Event-Driven Architecture
 44. Domain-Driven Design (DDD)
