@@ -54,7 +54,7 @@
 41. SOLID Principles - Done
 42. Microservices - Done
 43. Event-Driven Architecture - Done
-44. Domain-Driven Design (DDD)
+44. Domain-Driven Design (DDD) - Done
 
 ## Cloud & DevOps
 45. Azure Deployment
