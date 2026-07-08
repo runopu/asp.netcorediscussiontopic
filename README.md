@@ -52,8 +52,8 @@
 39. CQRS Pattern - Done
 40. Repository & Unit of Work - Done
 41. SOLID Principles - Done
-42. Microservices
-43. Event-Driven Architecture
+42. Microservices - Done
+43. Event-Driven Architecture - Done
 44. Domain-Driven Design (DDD)
 
 ## Cloud & DevOps
