@@ -57,8 +57,8 @@
 44. Domain-Driven Design (DDD) - Done
 
 ## Cloud & DevOps
-45. Azure Deployment
-46. Docker Containers
+45. Azure Deployment - Done
+46. Docker Containers - Done
 47. CI/CD Pipelines
 48. Kubernetes
 49. Application Insights
