@@ -62,13 +62,13 @@
 47. CI/CD Pipelines - Done
 48. Kubernetes - Done
 49. Application Insights - Done
-50. Cloud-Native Development
+50. Cloud-Native Development - Done
 
 ## Advanced Topics
-51. SignalR
-52. Multi-Tenant Applications
-53. gRPC
-54. Redis Distributed Cache
+51. SignalR - Done
+52. Multi-Tenant Applications - Done
+53. gRPC - Done
+54. Redis Distributed Cache - Done
 55. API Gateway
 56. RabbitMQ Integration
 57. Hosted Services
