@@ -69,8 +69,8 @@
 52. Multi-Tenant Applications - Done
 53. gRPC - Done
 54. Redis Distributed Cache - Done
-55. API Gateway
-56. RabbitMQ Integration
+55. API Gateway - Done
+56. RabbitMQ Integration - Done
 57. Hosted Services
 58. Distributed Transactions
 
