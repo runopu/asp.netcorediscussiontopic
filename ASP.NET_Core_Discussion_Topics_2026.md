@@ -1,7 +1,7 @@
 # ASP.NET Core Discussion Topics (2026)
 
 ## Modern Architecture
-- Clean Architecture vs Vertical Slice Architecture
+- Clean Architecture vs Vertical Slice Architecture - Done
 - Modular Monolith vs Microservices
 - Domain-Driven Design (DDD)
 - CQRS with MediatR
