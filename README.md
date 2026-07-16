@@ -78,7 +78,7 @@
 59. AI Integration with ASP.NET Core - Done
 60. RAG Applications - Done
 61. AI Chatbots - Done
-62. Vector Databases
-63. Semantic Search
-64. MCP Integration
-65. Agentic AI Applications
+62. Vector Databases - Done
+63. Semantic Search - Done
+64. MCP Integration - Done
+65. Agentic AI Applications - Done
