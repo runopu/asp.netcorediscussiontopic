@@ -2,9 +2,9 @@
 
 ## Modern Architecture
 - Clean Architecture vs Vertical Slice Architecture - Done
-- Modular Monolith vs Microservices
-- Domain-Driven Design (DDD)
-- CQRS with MediatR
+- Modular Monolith vs Microservices - Done
+- Domain-Driven Design (DDD) - Done
+- CQRS with MediatR - Done
 - Event-Driven Architecture
 - Hexagonal Architecture
 - Onion Architecture
