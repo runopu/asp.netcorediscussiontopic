@@ -5,10 +5,10 @@
 - Modular Monolith vs Microservices - Done
 - Domain-Driven Design (DDD) - Done
 - CQRS with MediatR - Done
-- Event-Driven Architecture
-- Hexagonal Architecture
-- Onion Architecture
-- Feature-Based Project Structure
+- Event-Driven Architecture - Done
+- Hexagonal Architecture - Done
+- Onion Architecture - Done
+- Feature-Based Project Structure - Done
 - API Gateway Patterns
 - Backend for Frontend (BFF)
 
