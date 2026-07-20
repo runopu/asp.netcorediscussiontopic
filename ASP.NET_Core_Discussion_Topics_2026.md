@@ -9,13 +9,13 @@
 - Hexagonal Architecture - Done
 - Onion Architecture - Done
 - Feature-Based Project Structure - Done
-- API Gateway Patterns
-- Backend for Frontend (BFF)
+- API Gateway Patterns - Done
+- Backend for Frontend (BFF) - Done
 
 ## AI + ASP.NET Core
-- AI Integration
-- AI Agents
-- Agentic AI Applications
+- AI Integration - Done
+- AI Agents - Done
+- Agentic AI Applications - Done
 - Model Context Protocol (MCP)
 - Semantic Search
 - Retrieval-Augmented Generation (RAG)
