@@ -16,10 +16,10 @@
 - AI Integration - Done
 - AI Agents - Done
 - Agentic AI Applications - Done
-- Model Context Protocol (MCP)
-- Semantic Search
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
+- Model Context Protocol (MCP) - Done
+- Semantic Search - Done
+- Retrieval-Augmented Generation (RAG) - Done
+- Vector Databases - Done
 - AI Chatbots
 - OpenAI API Integration
 - AI Document Processing
