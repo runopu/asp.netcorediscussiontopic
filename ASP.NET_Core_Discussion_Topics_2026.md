@@ -20,12 +20,12 @@
 - Semantic Search - Done
 - Retrieval-Augmented Generation (RAG) - Done
 - Vector Databases - Done
-- AI Chatbots
-- OpenAI API Integration
-- AI Document Processing
+- AI Chatbots - Done
+- OpenAI API Integration - Done
+- AI Document Processing - Done
 
 ## Web APIs
-- Minimal APIs
+- Minimal APIs - Done
 - REST Best Practices
 - API Versioning
 - Rate Limiting
