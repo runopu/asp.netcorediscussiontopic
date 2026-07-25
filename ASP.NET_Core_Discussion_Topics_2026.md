@@ -26,13 +26,13 @@
 
 ## Web APIs
 - Minimal APIs - Done
-- REST Best Practices
-- API Versioning
-- Rate Limiting
-- Swagger / OpenAPI
-- GraphQL vs REST
-- gRPC
-- Pagination, Filtering & Sorting
+- REST Best Practices - Done
+- API Versioning - Done
+- Rate Limiting - Done
+- Swagger / OpenAPI - Done
+- GraphQL vs REST - Done
+- gRPC - Done
+- Pagination, Filtering & Sorting - Done
 
 ## Security
 - JWT Authentication
