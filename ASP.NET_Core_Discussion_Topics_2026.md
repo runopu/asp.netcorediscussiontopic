@@ -35,12 +35,12 @@
 - Pagination, Filtering & Sorting - Done
 
 ## Security
-- JWT Authentication
-- OAuth 2.1 & OpenID Connect
-- Role & Policy-Based Authorization
-- Refresh Tokens
-- Secret Management
-- Secure File Uploads
+- JWT Authentication - Done
+- OAuth 2.1 & OpenID Connect - Done
+- Role & Policy-Based Authorization - Done
+- Refresh Tokens - Done
+- Secret Management - Done
+- Secure File Uploads - Done
 
 ## Performance
 - Performance Optimization
