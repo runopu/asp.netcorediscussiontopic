@@ -43,10 +43,10 @@
 - Secure File Uploads - Done
 
 ## Performance
-- Performance Optimization
-- Response & Output Caching
-- Redis Distributed Cache
-- Async Programming
+- Performance Optimization - Done
+- Response & Output Caching - Done
+- Redis Distributed Cache - Done
+- Async Programming - Done
 - Background Processing
 - Database Optimization
 
