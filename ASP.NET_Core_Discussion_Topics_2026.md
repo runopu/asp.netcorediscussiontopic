@@ -47,11 +47,11 @@
 - Response & Output Caching - Done
 - Redis Distributed Cache - Done
 - Async Programming - Done
-- Background Processing
-- Database Optimization
+- Background Processing - Done
+- Database Optimization - Done
 
 ## Database
-- EF Core Performance
+- EF Core Performance - Done
 - Dapper vs EF Core
 - SQL Server Optimization
 - Bulk Operations
