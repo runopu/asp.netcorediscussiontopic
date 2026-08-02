@@ -52,16 +52,16 @@
 
 ## Database
 - EF Core Performance - Done
-- Dapper vs EF Core
-- SQL Server Optimization
-- Bulk Operations
-- Migrations
-- Multi-Tenant Databases
+- Dapper vs EF Core - Done
+- SQL Server Optimization - Done
+- Bulk Operations - Done
+- Migrations - Done
+- Multi-Tenant Databases - Done
 
 ## Cloud & DevOps
-- Docker
-- Kubernetes
-- Azure App Services
+- Docker - Done
+- Kubernetes - Done
+- Azure App Services - Done
 - Azure Container Apps
 - GitHub Actions
 - Azure DevOps
