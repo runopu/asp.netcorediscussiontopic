@@ -2,8 +2,8 @@
 
 ## AI & Intelligent Cloud
 
-1.  Azure AI Foundry
-2.  Building AI Agents on Azure
+1.  Azure AI Foundry - Done
+2.  Building AI Agents on Azure - Done
 3.  GitHub Copilot for Enterprise Development
 4.  Azure OpenAI Integration
 5.  Retrieval-Augmented Generation (RAG)
