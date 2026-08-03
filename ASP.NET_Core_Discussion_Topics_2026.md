@@ -62,8 +62,8 @@
 - Docker - Done
 - Kubernetes - Done
 - Azure App Services - Done
-- Azure Container Apps
-- GitHub Actions
+- Azure Container Apps - Done
+- GitHub Actions - Done
 - Azure DevOps
 - Infrastructure as Code
 - Cloud-Native Development
