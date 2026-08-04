@@ -64,9 +64,9 @@
 - Azure App Services - Done
 - Azure Container Apps - Done
 - GitHub Actions - Done
-- Azure DevOps
-- Infrastructure as Code
-- Cloud-Native Development
+- Azure DevOps - Done
+- Infrastructure as Code - Done
+- Cloud-Native Development - Done
 
 ## Distributed Systems
 - RabbitMQ
