@@ -69,9 +69,9 @@
 - Cloud-Native Development - Done
 
 ## Distributed Systems
-- RabbitMQ
-- Apache Kafka
-- Event Sourcing
+- RabbitMQ - Done
+- Apache Kafka - Done
+- Event Sourcing - Done
 - Saga Pattern
 - Distributed Transactions
 - Outbox Pattern
