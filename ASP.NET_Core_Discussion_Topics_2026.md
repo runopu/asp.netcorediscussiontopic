@@ -72,8 +72,8 @@
 - RabbitMQ - Done
 - Apache Kafka - Done
 - Event Sourcing - Done
-- Saga Pattern
-- Distributed Transactions
+- Saga Pattern - Done
+- Distributed Transactions - Done
 - Outbox Pattern
 - Polly Resilience
 
