@@ -74,7 +74,7 @@
 - Event Sourcing - Done
 - Saga Pattern - Done
 - Distributed Transactions - Done
-- Outbox Pattern
+- Outbox Pattern - Done
 - Polly Resilience
 
 ## Testing
