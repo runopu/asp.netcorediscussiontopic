@@ -75,10 +75,10 @@
 - Saga Pattern - Done
 - Distributed Transactions - Done
 - Outbox Pattern - Done
-- Polly Resilience
+- Polly Resilience - Done
 
 ## Testing
-- Unit Testing
+- Unit Testing - Done
 - Integration Testing
 - API Testing
 - TestContainers
