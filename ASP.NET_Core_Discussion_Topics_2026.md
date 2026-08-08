@@ -79,7 +79,7 @@
 
 ## Testing
 - Unit Testing - Done
-- Integration Testing
+- Integration Testing - Done
 - API Testing
 - TestContainers
 - Contract Testing
