@@ -80,12 +80,12 @@
 ## Testing
 - Unit Testing - Done
 - Integration Testing - Done
-- API Testing
-- TestContainers
-- Contract Testing
+- API Testing - Done
+- TestContainers - Done
+- Contract Testing - Done
 
 ## Observability
-- Serilog
+- Serilog - Done
 - OpenTelemetry
 - Health Checks
 - Application Insights
