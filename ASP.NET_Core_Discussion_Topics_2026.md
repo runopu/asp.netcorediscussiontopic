@@ -86,10 +86,10 @@
 
 ## Observability
 - Serilog - Done
-- OpenTelemetry
-- Health Checks
-- Application Insights
-- Prometheus & Grafana
+- OpenTelemetry - Done
+- Health Checks - Done
+- Application Insights - Done
+- Prometheus & Grafana - Done
 
 ## Enterprise Development
 - Multi-Tenant SaaS
