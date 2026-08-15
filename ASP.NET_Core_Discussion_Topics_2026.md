@@ -108,12 +108,12 @@
 - Progressive Web Apps (PWA) - Done
 
 ## Advanced Topics
-- Native AOT
-- Source Generators
-- C# 14 Features
-- .NET Aspire
-- High-Performance APIs
-- Multi-Region Deployment
+- Native AOT - Done
+- Source Generators - Done
+- C# 14 Features - Done
+- .NET Aspire - Done
+- High-Performance APIs - Done
+- Multi-Region Deployment - Done
 
 ## 30-Day Content Series
 1. Clean Architecture
