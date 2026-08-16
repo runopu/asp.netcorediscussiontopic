@@ -116,13 +116,13 @@
 - Multi-Region Deployment - Done
 
 ## 30-Day Content Series
-1. Clean Architecture
-2. Vertical Slice
-3. Minimal APIs
-4. JWT Authentication
-5. Authorization
-6. EF Core Performance
-7. Redis
+1. Clean Architecture - Done
+2. Vertical Slice - Done
+3. Minimal APIs - Done
+4. JWT Authentication - Done
+5. Authorization - Done
+6. EF Core Performance - Done
+7. Redis - Done
 8. API Rate Limiting
 9. OpenTelemetry
 10. Docker
