@@ -123,11 +123,11 @@
 5. Authorization - Done
 6. EF Core Performance - Done
 7. Redis - Done
-8. API Rate Limiting
-9. OpenTelemetry
-10. Docker
-11. Kubernetes
-12. GitHub Actions
+8. API Rate Limiting - Done
+9. OpenTelemetry - Done
+10. Docker - Done
+11. Kubernetes - Done
+12. GitHub Actions - Done
 13. RabbitMQ
 14. Kafka
 15. CQRS
