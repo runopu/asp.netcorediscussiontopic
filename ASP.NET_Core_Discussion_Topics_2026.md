@@ -128,11 +128,11 @@
 10. Docker - Done
 11. Kubernetes - Done
 12. GitHub Actions - Done
-13. RabbitMQ
-14. Kafka
-15. CQRS
-16. Event-Driven Architecture
-17. SignalR
+13. RabbitMQ - Done
+14. Kafka - Done
+15. CQRS - Done
+16. Event-Driven Architecture - Done
+17. SignalR - Done
 18. Background Services
 19. Hangfire
 20. Azure Deployment
