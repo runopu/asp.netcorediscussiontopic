@@ -133,12 +133,12 @@
 15. CQRS - Done
 16. Event-Driven Architecture - Done
 17. SignalR - Done
-18. Background Services
-19. Hangfire
-20. Azure Deployment
-21. RAG
-22. Semantic Search
-23. Vector Databases
+18. Background Services - Done
+19. Hangfire - Done
+20. Azure Deployment - Done
+21. RAG - Done
+22. Semantic Search - Done
+23. Vector Databases - Done
 24. AI Agents
 25. MCP
 26. AI Chatbots
