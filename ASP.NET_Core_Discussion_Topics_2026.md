@@ -139,10 +139,10 @@
 21. RAG - Done
 22. Semantic Search - Done
 23. Vector Databases - Done
-24. AI Agents
-25. MCP
-26. AI Chatbots
-27. .NET Aspire
-28. Native AOT
-29. Cloud-Native ASP.NET Core
-30. Enterprise Applications
+24. AI Agents - Done
+25. MCP - Done
+26. AI Chatbots - Done
+27. .NET Aspire - Done
+28. Native AOT - Done
+29. Cloud-Native ASP.NET Core - Done
+30. Enterprise Applications - Done
