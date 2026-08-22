@@ -19,8 +19,8 @@
 
 ## 2. Angular Architecture
 
--   Angular Project Structure
--   Standalone Components
+-   Angular Project Structure - Done
+-   Standalone Components - Done
 -   Feature Modules
 -   Shared Module vs Core Module
 -   Lazy Loading
