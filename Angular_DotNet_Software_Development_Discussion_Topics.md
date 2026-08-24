@@ -15,20 +15,20 @@
 -   Service-Oriented Architecture (SOA)
 -   Backend for Frontend (BFF)
 -   API Gateway Pattern
--   Serverless Architecture
+-   Serverless Architecture - Done
 
 ## 2. Angular Architecture
 
 -   Angular Project Structure - Done
 -   Standalone Components - Done
--   Feature Modules
--   Shared Module vs Core Module
--   Lazy Loading
--   Route Guards
--   Dependency Injection
--   Signals
--   RxJS Best Practices
--   Smart vs Dumb Components
+-   Feature Modules - Done
+-   Shared Module vs Core Module - Done
+-   Lazy Loading - Done
+-   Route Guards - Done
+-   Dependency Injection - Done
+-   Signals - Done
+-   RxJS Best Practices - Done
+-   Smart vs Dumb Components - Done
 -   State Management (NgRx, NGXS, Akita)
 -   Dynamic Components
 -   Angular SSR
