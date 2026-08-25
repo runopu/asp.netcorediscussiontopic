@@ -13,8 +13,8 @@
 -   Event-Driven Architecture
 -   Microservices Architecture
 -   Service-Oriented Architecture (SOA)
--   Backend for Frontend (BFF)
--   API Gateway Pattern
+-   Backend for Frontend (BFF) - Done
+-   API Gateway Pattern - Done
 -   Serverless Architecture - Done
 
 ## 2. Angular Architecture
@@ -29,8 +29,8 @@
 -   Signals - Done
 -   RxJS Best Practices - Done
 -   Smart vs Dumb Components - Done
--   State Management (NgRx, NGXS, Akita)
--   Dynamic Components
+-   State Management (NgRx, NGXS, Akita) - Done
+-   Dynamic Components - Done
 -   Angular SSR
 -   Progressive Web Apps (PWA)
 -   Micro Frontends
