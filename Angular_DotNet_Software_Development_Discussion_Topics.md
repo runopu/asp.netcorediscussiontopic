@@ -39,7 +39,7 @@
 
 -   ASP.NET Core Web API - Done
 -   Minimal APIs - Done
--   MVC Architecture
+-   MVC Architecture - Done
 -   Clean API Design
 -   CQRS with MediatR
 -   Repository Pattern
