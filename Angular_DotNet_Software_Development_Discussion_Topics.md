@@ -11,8 +11,8 @@
 -   Layered Architecture
 -   Domain-Driven Design (DDD)
 -   Event-Driven Architecture
--   Microservices Architecture
--   Service-Oriented Architecture (SOA)
+-   Microservices Architecture - Done
+-   Service-Oriented Architecture (SOA) - Done
 -   Backend for Frontend (BFF) - Done
 -   API Gateway Pattern - Done
 -   Serverless Architecture - Done
@@ -31,14 +31,14 @@
 -   Smart vs Dumb Components - Done
 -   State Management (NgRx, NGXS, Akita) - Done
 -   Dynamic Components - Done
--   Angular SSR
--   Progressive Web Apps (PWA)
--   Micro Frontends
+-   Angular SSR - Done
+-   Progressive Web Apps (PWA) - Done
+-   Micro Frontends - Done
 
 ## 3. .NET Backend Architecture
 
--   ASP.NET Core Web API
--   Minimal APIs
+-   ASP.NET Core Web API - Done
+-   Minimal APIs - Done
 -   MVC Architecture
 -   Clean API Design
 -   CQRS with MediatR
