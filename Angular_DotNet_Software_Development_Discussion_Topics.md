@@ -40,15 +40,15 @@
 -   ASP.NET Core Web API - Done
 -   Minimal APIs - Done
 -   MVC Architecture - Done
--   Clean API Design
--   CQRS with MediatR
--   Repository Pattern
--   Unit of Work
--   Specification Pattern
--   Generic Repository
--   Dependency Injection
--   Middleware Pipeline
--   Background Services
+-   Clean API Design - Done
+-   CQRS with MediatR - Done
+-   Repository Pattern - Done
+-   Unit of Work - Done
+-   Specification Pattern - Done
+-   Generic Repository - Done
+-   Dependency Injection - Done
+-   Middleware Pipeline - Done
+-   Background Services - Done
 -   Hosted Services
 -   API Versioning
 
