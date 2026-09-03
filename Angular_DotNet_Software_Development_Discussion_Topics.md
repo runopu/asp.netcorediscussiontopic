@@ -49,8 +49,8 @@
 -   Dependency Injection - Done
 -   Middleware Pipeline - Done
 -   Background Services - Done
--   Hosted Services
--   API Versioning
+-   Hosted Services - Done
+-   API Versioning - Done
 
 ## 4. Design Patterns
 
