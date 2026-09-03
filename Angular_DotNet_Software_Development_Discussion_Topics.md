@@ -55,7 +55,7 @@
 ## 4. Design Patterns
 
 -   Repository Pattern - Done
--   Factory Pattern
+-   Factory Pattern - Done
 -   Singleton Pattern
 -   Builder Pattern
 -   Adapter Pattern
