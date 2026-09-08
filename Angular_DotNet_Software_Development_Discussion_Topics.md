@@ -56,15 +56,15 @@
 
 -   Repository Pattern - Done
 -   Factory Pattern - Done
--   Singleton Pattern
--   Builder Pattern
--   Adapter Pattern
--   Decorator Pattern
--   Observer Pattern
--   Strategy Pattern
--   Command Pattern
--   Mediator Pattern
--   Facade Pattern
+-   Singleton Pattern - Done
+-   Builder Pattern - Done
+-   Adapter Pattern - Done
+-   Decorator Pattern - Done
+-   Observer Pattern - Done
+-   Strategy Pattern - Done
+-   Command Pattern - Done
+-   Mediator Pattern - Done
+-   Facade Pattern - Done
 -   Chain of Responsibility
 -   Template Method
 -   Visitor Pattern
