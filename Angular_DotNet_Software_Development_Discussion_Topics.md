@@ -65,9 +65,9 @@
 -   Command Pattern - Done
 -   Mediator Pattern - Done
 -   Facade Pattern - Done
--   Chain of Responsibility
--   Template Method
--   Visitor Pattern
+-   Chain of Responsibility - Done
+-   Template Method - Done
+-   Visitor Pattern - Done
 
 ## 5. SOLID & Clean Code
 
