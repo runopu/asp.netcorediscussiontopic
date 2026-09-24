@@ -71,18 +71,18 @@
 
 ## 5. SOLID & Clean Code
 
--   SOLID Principles
--   DRY
--   KISS
--   YAGNI
--   Separation of Concerns
--   High Cohesion
--   Low Coupling
--   Code Smells
--   Refactoring Techniques
--   Naming Conventions
--   Code Reviews
--   Technical Debt
+-   SOLID Principles - Done
+-   DRY - Done
+-   KISS - Done
+-   YAGNI - Done
+-   Separation of Concerns - Done
+-   High Cohesion - Done
+-   Low Coupling - Done
+-   Code Smells - Done
+-   Refactoring Techniques - Done
+-   Naming Conventions - Done
+-   Code Reviews - Done
+-   Technical Debt - Done
 
 ## 6. API Development
 
