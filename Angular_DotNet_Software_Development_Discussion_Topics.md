@@ -86,10 +86,10 @@
 
 ## 6. API Development
 
--   REST API Design
--   GraphQL
--   gRPC
--   OpenAPI (Swagger)
+-   REST API Design - Done
+-   GraphQL - Done
+-   gRPC - Done
+-   OpenAPI (Swagger) - Done
 -   API Documentation
 -   API Security
 -   API Versioning
