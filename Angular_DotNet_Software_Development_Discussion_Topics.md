@@ -8,9 +8,9 @@
 -   Onion Architecture
 -   Hexagonal Architecture
 -   Vertical Slice Architecture
--   Layered Architecture
--   Domain-Driven Design (DDD)
--   Event-Driven Architecture
+-   Layered Architecture - Done
+-   Domain-Driven Design (DDD) - Done
+-   Event-Driven Architecture - Done
 -   Microservices Architecture - Done
 -   Service-Oriented Architecture (SOA) - Done
 -   Backend for Frontend (BFF) - Done
@@ -90,9 +90,9 @@
 -   GraphQL - Done
 -   gRPC - Done
 -   OpenAPI (Swagger) - Done
--   API Documentation
--   API Security
--   API Versioning
+-   API Documentation - Done
+-   API Security - Done
+-   API Versioning - Done
 -   Pagination
 -   Filtering
 -   Sorting
