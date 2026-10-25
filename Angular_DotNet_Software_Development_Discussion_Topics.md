@@ -2,12 +2,12 @@
 
 ## 1. Software Architecture
 
--   Monolithic Architecture
--   Modular Monolith
--   Clean Architecture
--   Onion Architecture
--   Hexagonal Architecture
--   Vertical Slice Architecture
+-   Monolithic Architecture - Done
+-   Modular Monolith - Done
+-   Clean Architecture - Done
+-   Onion Architecture - Done
+-   Hexagonal Architecture - Done
+-   Vertical Slice Architecture - Done
 -   Layered Architecture - Done
 -   Domain-Driven Design (DDD) - Done
 -   Event-Driven Architecture - Done
