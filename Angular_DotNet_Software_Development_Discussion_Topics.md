@@ -93,10 +93,10 @@
 -   API Documentation - Done
 -   API Security - Done
 -   API Versioning - Done
--   Pagination
--   Filtering
--   Sorting
--   HATEOAS
+-   Pagination - Done
+-   Filtering - Done
+-   Sorting - Done
+-   HATEOAS - Done
 -   Rate Limiting
 -   Response Compression
 
