@@ -97,18 +97,18 @@
 -   Filtering - Done
 -   Sorting - Done
 -   HATEOAS - Done
--   Rate Limiting
--   Response Compression
+-   Rate Limiting - Done
+-   Response Compression - Done
 
 ## 7. Authentication & Security
 
--   JWT Authentication
--   Refresh Tokens
--   OAuth 2.0
--   OpenID Connect
--   IdentityServer
--   ASP.NET Identity
--   Role-Based Authorization
+-   JWT Authentication - Done
+-   Refresh Tokens - Done
+-   OAuth 2.0 - Done
+-   OpenID Connect - Done
+-   IdentityServer - Done
+-   ASP.NET Identity - Done
+-   Role-Based Authorization - Done
 -   Policy-Based Authorization
 -   Claims-Based Authentication
 -   Multi-Factor Authentication
