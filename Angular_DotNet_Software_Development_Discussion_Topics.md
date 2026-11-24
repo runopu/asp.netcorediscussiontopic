@@ -109,10 +109,10 @@
 -   IdentityServer - Done
 -   ASP.NET Identity - Done
 -   Role-Based Authorization - Done
--   Policy-Based Authorization
--   Claims-Based Authentication
--   Multi-Factor Authentication
--   Single Sign-On (SSO)
+-   Policy-Based Authorization - Done
+-   Claims-Based Authentication - Done
+-   Multi-Factor Authentication - Done
+-   Single Sign-On (SSO) - Done
 -   CORS
 -   CSRF
 -   XSS Prevention
